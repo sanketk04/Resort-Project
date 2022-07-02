@@ -1,0 +1,21 @@
+body{
+    margin: 20px;
+    background-color: burlywood;
+}
+p{
+    color: brown; font-size: 20px; font-style: italic;
+}
+div{
+
+    font-family: cursive;
+    color: blue; height: 200px; width: 500px;
+    background-color: darkgray;
+}
+#mydiv{
+   /* transform: rotate(20deg); */
+   transform: skew(30deg);
+}
+.para1{
+    color: darkgreen; background-color: yellow;font-size: 30px;
+}
+
